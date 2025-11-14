@@ -1,0 +1,16 @@
+node_id,node_type
+0,depot
+1,physical_customer
+2,physical
+3,physical_customer
+4,physical
+5,physical_customer
+6,physical
+7,physical_customer
+8,physical_customer
+9,depot
+10,dummy_customer
+11,dummy_customer
+12,dummy_customer
+13,dummy_customer
+14,dummy_customer
